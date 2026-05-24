@@ -1,4 +1,4 @@
-
+<!-- Failed to upload "2026-05-24 19-11-52.mp4" -->
 # 🛍️ QuickCart Pro — Pakistan's Mega Mall
 ### Web Technologies Project — HTML + CSS + JavaScript
 
